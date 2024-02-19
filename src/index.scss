@@ -1,0 +1,12 @@
+//Global
+@use "./Scss/abstracts/variables";
+@use "./Scss/base/base";
+@use "./App.scss";
+
+//Components
+@use "./components/Styles/NavBar.scss";
+@use "./components/Styles/Carousel.scss";
+@use "./components/Styles/Card.scss";
+@use "./components/Styles/Footer.scss";
+//Pages
+@use "./pages/Style/info.scss";
